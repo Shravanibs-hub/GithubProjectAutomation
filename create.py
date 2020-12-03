@@ -7,7 +7,7 @@ token = 'token'
 
 repo_name = str(sys.argv[1])
 
-#random comment
+#this is going to be updated in github
 # Passing Repository name
 payload = {'name': repo_name}
 
